@@ -60,6 +60,4 @@ vanishing gradients on long sequences without gating.
 - scikit-learn, gensim, NLTK
 - pandas, NumPy, matplotlib, seaborn, wordcloud
 
-## Notebook
 
-- [`NLP Question Answer Classifier With Different Language Models.ipynb`](<NLP Question Answer Classifier With Different Language Models.ipynb>)
